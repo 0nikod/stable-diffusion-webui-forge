@@ -10,7 +10,8 @@
 #clone_dir="stable-diffusion-webui"
 
 # Commandline arguments for webui.py, for example: export COMMANDLINE_ARGS="--medvram --opt-split-attention"
-export COMMANDLINE_ARGS="--opt-split-attention --enable-insecure-extension-access --disable-safe-unpickle --share --no-hashing --disable-console-progressbars --opt-sub-quad-attention --opt-channelslast --no-download-sd-model --gradio-queue --listen --theme dark --no-half-vae --opt-sdp-attention --xformers  --cuda-stream --pin-shared-memory"
+export COMMANDLINE_ARGS="--config /content/drive/MyDrive/forgeui/config.json --ui-config-file /content/drive/MyDrive/forgeui/ui-config.json \
+--opt-split-attention --enable-insecure-extension-access --disable-safe-unpickle --share --no-hashing --disable-console-progressbars --opt-sub-quad-attention --opt-channelslast --no-download-sd-model --gradio-queue --listen --theme dark --no-half-vae --opt-sdp-attention --xformers  --cuda-stream --pin-shared-memory"
 
 # python3 executable
 python_cmd="python3.11"
