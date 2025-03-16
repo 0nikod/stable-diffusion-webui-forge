@@ -1,1 +1,19 @@
-#no to do
+blendmodes
+clean-fid
+facexlib
+inflection
+jsonmerge
+kornia
+lark
+omegaconf
+open-clip-torch
+pytorch_lightning
+resize-right
+spandrel
+spandrel-extra-arches
+tomesd
+torchdiffeq
+torchsde
+gradio_rangeslider
+gradio_imageslider
+loadimg
