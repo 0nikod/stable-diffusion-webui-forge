@@ -14,7 +14,7 @@ spandrel-extra-arches
 tomesd
 torchdiffeq
 torchsde
-gradio==4.44.1
-gradio_rangeslider
-gradio_imageslider
+gradio==4.40.0
+gradio_rangeslider==0.0.6
+gradio_imageslider==0.0.20
 loadimg
